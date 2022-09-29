@@ -1,0 +1,50 @@
+body {
+    background: #50050C;
+    margin: 40px;
+}
+.main {
+    display: block;
+    font-family: 'Josefin Sans', sans-serif;
+    white-space: nowrap;
+    padding: 20px;
+}
+
+.avater {
+    width: 300px;
+    border: 4px solid #63F2EA;
+}
+.txt {
+    color: #08F8E9;
+    font-weight: bold;
+}
+.txt3 {
+    text-decoration: underline;
+    font-size: 2rem;
+
+}
+
+.list {
+    color: #F5EC9C;
+    font-weight: lighter;
+    font-size: 1.2rem;
+    
+}
+
+p {
+    color: #f5ec9c;
+    font-weight: bold;
+
+}
+button, input {
+    display: block;
+    background: #F5EC9C;
+    width: 150px;
+    border: none;
+    padding: 8px 16px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+button {
+    width: 180px;
+
+}
